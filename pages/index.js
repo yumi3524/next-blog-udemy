@@ -34,7 +34,8 @@ export default function Home({allPostsData}) {
     <>
     <Layout home>
       <section className={utilStyls.headingMd}>
-        <p>私はシステムエンジニアです</p>
+        <p>私はシステムエンジニアです.デザインにも興味があります。
+        </p>
       </section>
       <section>
         <h1>📝エンジニアのブログ</h1>
